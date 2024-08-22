@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkweweb_front"]=self["webpackChunkweweb_front"]||[]).push([[384],{8384:(e,w,s)=>{s.r(w);s(7470)}}]);
